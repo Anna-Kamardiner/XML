@@ -1,6 +1,6 @@
 # XML
  - Создать внешний репозиторий c названием XML -->Repositories-->New
- - Клонировать репозиторий XML на локальный компьютер. -->Button "Code" --> copy link
+ - Клонировать репозиторий XML на локальный компьютер. -->Button "Code" --> copy link --> git clone link
  - Внутри локального XML создать файл “new.xml”. --> touch new.xml
  - Добавить файл под гит. --> git add .
  - Закоммитить файл --> git commit -m "add new file"
